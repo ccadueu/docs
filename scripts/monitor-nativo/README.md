@@ -4,10 +4,10 @@ Scripts para **desligar os monitores externos e manter ligado somente o monitor
 nativo** (a tela interna do notebook), sem depender do BetterDisplay nem de
 qualquer outro app de terceiros pago.
 
-| Arquivo | Sistema | Precisa instalar algo? |
-| --- | --- | --- |
+| Arquivo                     | Sistema | Precisa instalar algo?                             |
+| --------------------------- | ------- | -------------------------------------------------- |
 | `apenas-monitor-nativo.ps1` | Windows | Não — usa o `DisplaySwitch.exe` do próprio Windows |
-| `apenas-monitor-nativo.sh` | macOS | Sim — `displayplacer` (Homebrew) |
+| `apenas-monitor-nativo.sh`  | macOS   | Sim — `displayplacer` (Homebrew)                   |
 
 ---
 
@@ -97,7 +97,7 @@ xrandr --output HDMI-1 --off             # repita para cada saída externa
 ```
 
 Em Wayland isso varia por ambiente: GNOME/KDE têm o mesmo controle em
-*Configurações → Telas*, desativando cada monitor externo.
+_Configurações → Telas_, desativando cada monitor externo.
 
 ---
 
