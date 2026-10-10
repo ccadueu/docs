@@ -22,6 +22,8 @@ Guia em português, simplificado para quem **não sabe programar**.
 8. [Glossário](#glossário)
 9. [O que mudou em relação ao original](#o-que-mudou-em-relação-ao-original)
 
+> **Já domina o básico?** Veja os [prompts avançados para resumos jurídicos](./prompts-avancados.md): resumo com conferência, linha do tempo dos autos, classificação por tipo de documento, fichário de peças, triagem de intimações e avaliação com gabarito.
+
 ## A ideia em um minuto
 
 O guia original ensina uma coisa simples: **quanto mais claro você for sobre o que quer no resumo, melhor o resumo fica**. Ele faz isso em degraus:
@@ -248,6 +250,8 @@ Pergunta: [ex.: qual contrato tem a empresa X como sublocadora?]
 - **Tamanho da ficha:** teste fichas mais curtas e mais longas. Curta demais perde informação; longa demais perde a vantagem.
 - **Refinar em rodadas:** com muitos documentos, faça a triagem em duas etapas (primeiro separa os 10 mais prováveis, depois escolhe entre eles).
 - **Reaproveitar:** as fichas só precisam ser feitas uma vez. Guarde e reutilize.
+
+> Versões mais completas destas técnicas, prontas para o trabalho com processos judiciais, estão em [prompts avançados para resumos jurídicos](./prompts-avancados.md).
 
 ## Como saber se o resumo ficou bom
 
